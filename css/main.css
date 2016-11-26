@@ -1,0 +1,47 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #e6e8f0;
+  background-color: #67060c ;
+}
+
+.jumbotron {
+  padding: 30px 15px;
+  margin-bottom: 30px;
+  color: #67060c;
+  background-color: #e6e8f0;
+}
+
+.navbar-brand {
+  float: left;
+  height: 50px;
+  padding: 15px 40px ;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.twitter-follow-button {
+	font-size: 14px;
+}
+
+.col-md-4 {
+	padding-top: 20px ;
+}
+
+
+
+
+
+
+
+
+
+
+
