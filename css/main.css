@@ -21,6 +21,9 @@ p {
   font-size: 20px;
 }
 
+img {
+    width: 100%;
+}
 
 .jumbotron {
   padding: 30px 15px;
@@ -44,10 +47,6 @@ p {
 .col-md-4 {
 	padding-top: 15px ;
 }
-
-
-
-
 
 
 
