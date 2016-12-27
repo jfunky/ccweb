@@ -5,43 +5,61 @@
    ========================================================================== */
 
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 14px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
   line-height: 1.42857143;
   color: #e6e8f0;
   background-color: #67060c ;
 }
 
 p {
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
 }
 
 img {
     width: 100%;
 }
 
-.jumbotron {
+/*.jumbotron {
+  background-position: center center;
   padding: 30px 15px;
   margin-bottom: 30px;
   color: #67060c;
   background-color: #e6e8f0;
+}*/
+
+.jumbotron {
+  background-image:url('cocoabar_brandmark.png');
+  background-position: center center;
+  height:166px;
+  background-repeat: no-repeat;
+  background-size: 300px 124px ;
+}
+.jumbotron .container {
+  position:relative;
+  top:50px;
 }
 
 .navbar-brand {
   float: left;
   height: 50px;
   padding: 15px 40px ;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 20px;
 }
 
 .twitter-follow-button {
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .col-md-4 {
