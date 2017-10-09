@@ -27,16 +27,10 @@ p {
 }
 
 img {
-    width: 100%;
+  display: block;
+  width: 100%;
+  height: auto;
 }
-
-/*.jumbotron {
-  background-position: center center;
-  padding: 30px 15px;
-  margin-bottom: 30px;
-  color: #67060c;
-  background-color: #e6e8f0;
-}*/
 
 .jumbotron {
   background-image:url('cocoabar_brandmark.png');
@@ -65,10 +59,3 @@ img {
 .col-md-4 {
 	padding-top: 15px ;
 }
-
-
-
-
-
-
-
